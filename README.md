@@ -1,4 +1,6 @@
-# Object Detection with YOLO (You Only Look Once)
+## Keep Detecting and Stay Curious!👩‍🔬
+
+## Object Detection with YOLO (You Only Look Once)
 Welcome to the Object Detection with YOLO project! In this repository, I explored the YOLO (You Only Look Once) algorithm for object detection, leveraging the pretrained Darknet model.
 
 ## Introduction
